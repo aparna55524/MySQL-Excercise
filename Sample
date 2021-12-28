@@ -1,0 +1,4 @@
+public class sample{
+public static void mail(String args[]){
+
+}
